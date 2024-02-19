@@ -1,0 +1,168 @@
+G:\תכנות יד\C#\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.deps.json
+G:\תכנות יד\C#\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.dll
+G:\תכנות יד\C#\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.pdb
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.dll
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\refint\BL.dll
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.pdb
+G:\תכנות יד\C#\שיעורי בית\Project\BL\obj\Debug\net6.0\ref\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.deps.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\refint\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\ref\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\refint\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.deps.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\BL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\bin\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\BL\obj\Debug\net6.0\ref\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.deps.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\ref\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.deps.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\ref\BL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.deps.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\BL.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\DAL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\bin\Debug\net6.0\DAL.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\User\Desktop\Clinic - C#\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\User\Desktop\Clinic - C#\BL\bin\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\Clinic - C#\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\Clinic - C#\BL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\Clinic - C#\BL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\Clinic - C#\BL\obj\Debug\net6.0\ref\BL.dll
+G:\יד\c#\Clinic - C#\BL\bin\Debug\net6.0\BL.deps.json
+G:\יד\c#\Clinic - C#\BL\bin\Debug\net6.0\BL.dll
+G:\יד\c#\Clinic - C#\BL\bin\Debug\net6.0\BL.pdb
+G:\יד\c#\Clinic - C#\BL\bin\Debug\net6.0\DAL.dll
+G:\יד\c#\Clinic - C#\BL\bin\Debug\net6.0\DAL.pdb
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+G:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\ref\BL.dll
+D:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+D:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+D:\יד\c#\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+F:\יד\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\BL.deps.json
+F:\יד\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\BL.dll
+F:\יד\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\BL.pdb
+F:\יד\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\DAL.dll
+F:\יד\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\DAL.pdb
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+F:\יד\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\bin\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\BL\obj\Debug\net6.0\ref\BL.dll

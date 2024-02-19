@@ -1,0 +1,706 @@
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\appsettings.Development.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\appsettings.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.exe
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.deps.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\BL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\appsettings.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.exe
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.deps.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\WebApi.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\BL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\bin\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.exe
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\BL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\BL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.exe
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\BL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\BL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.exe
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\BL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\BL.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.sourcelink.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\User\Desktop\Clinic - C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.json
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.exe
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\BL.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.dll
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\BL.pdb
+G:\יד\c#\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.pdb
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+G:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+D:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\יד\c#\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.json
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.exe
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\BL.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\BL.pdb
+F:\יד\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.pdb
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+F:\יד\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.sourcelink.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\BL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.sourcelink.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\WebApi\obj\Debug\net6.0\ref\WebApi.dll

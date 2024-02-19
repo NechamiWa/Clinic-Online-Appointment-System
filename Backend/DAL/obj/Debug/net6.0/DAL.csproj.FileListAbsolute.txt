@@ -1,0 +1,160 @@
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.dll
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.dll
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\תכנות יד\C#\שיעורי בית\Project\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\bin\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Project\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\bin\Debug\net6.0\DAL.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\תכנות יד\C# ברלין\שיעורי בית\Clinic - C#\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\Clinic - C#\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\Clinic - C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\Clinic - C#\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\Clinic - C#\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\Clinic - C#\DAL\obj\Debug\net6.0\ref\DAL.dll
+G:\יד\c#\Clinic - C#\DAL\bin\Debug\net6.0\DAL.deps.json
+G:\יד\c#\Clinic - C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+G:\יד\c#\Clinic - C#\DAL\bin\Debug\net6.0\DAL.dll
+G:\יד\c#\Clinic - C#\DAL\bin\Debug\net6.0\DAL.pdb
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+G:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+D:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\יד\c#\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+F:\יד\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\יד\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\יד\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.dll
+F:\יד\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.pdb
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\יד\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\C# פרויקט\Clinic - C#\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.sourcelink.json
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\C#-Project\Clinic-C#\DAL\obj\Debug\net6.0\ref\DAL.dll

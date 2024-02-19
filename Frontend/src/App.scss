@@ -1,0 +1,67 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+// @import '~bootstrap/scss/bootstrap';
+$base-bgcolor: #22272e;
+$base-color: #97a2b4;
+$base-font-weight: 300;
+$base-font-size: 1rem;
+$base-line-height: 1.5;
+$base-font-family: Helvetica Neue;
+$base-font-family-fallback: sans-serif;
+$input-placeholder-color: #97a2b4;
+
+.App {
+  height: 100vh;
+  text-align: center;
+  background-color: $base-bgcolor;
+  color: $base-color;
+  font: $base-font-family;
+  margin: 0;
+
+  .LogIn {
+
+    button {
+      background-image: linear-gradient(160deg, #7fedb6 0%, #378f7b 100%);
+      color: #fff;
+      margin-bottom: 6rem;
+      width: 20%;
+      border-radius: 10px;
+      padding: 5px;
+      margin: 5px;
+    }
+  }
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+
+  // align-items: center;
+  // justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

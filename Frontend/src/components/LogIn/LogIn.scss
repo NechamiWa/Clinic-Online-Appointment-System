@@ -1,0 +1,19 @@
+$base-bgcolor: #22272e;
+$base-bgcolor: #22272e;
+$base-color: #97a2b4;
+$base-font-weight: 300;
+$base-font-size: 1rem;
+$base-line-height: 1.5;
+$base-font-family: Helvetica Neue;
+$base-font-family-fallback: sans-serif;
+$input-placeholder-color: #bca6a6;
+
+.LogIn {
+
+    background-color: $base-bgcolor;
+    color: $base-color;
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family,
+    $base-font-family-fallback;
+    margin: 0;
+    min-height: 100%;
+}
