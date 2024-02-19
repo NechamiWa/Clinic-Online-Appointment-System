@@ -16,7 +16,7 @@ Online Appointment System is a comprehensive web application built to streamline
 
 1. **Clone Repository:**
    ```
-   git clone https://github.com/your-username/OnlineAppointmentSystem.git
+   git clone https://github.com/NechamiWa/Clinic-Online-Appointment-System.git
    ```
 2. **Server-Side Setup:**
    - Navigate to the `Server` directory and set up the C# project. Install necessary dependencies.
