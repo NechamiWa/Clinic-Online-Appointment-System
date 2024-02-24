@@ -20,13 +20,12 @@ Online Appointment System is a comprehensive web application built to streamline
    ```
 2. **Server-Side Setup:**
    - Navigate to the `Server` directory and set up the C# project. Install necessary dependencies.
-   - Configure the connection string in `appsettings.json`.
    - Run the project to start the server.
 3. **Client-Side Setup:**
    - Navigate to the `Client` directory and set up the React project. Install dependencies.
    - Start the development server.
 4. **Database Setup:**
-   - Execute SQL scripts provided in the `Database` directory to create tables and seed initial data.
+   - Execute SQL scripts provided in the `DAL` directory to create tables and seed initial data.
    - Update connection string in the server-side project.
 
 ## Technologies Used
