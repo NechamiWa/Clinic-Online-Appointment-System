@@ -33,7 +33,7 @@ Online Appointment System is a comprehensive web application built to streamline
 - **Server-Side:**
   - C#, ASP.NET Core, Entity Framework Core
 - **Client-Side:**
-  - React, JavaScript, HTML/CSS
+  - React, TypeScript, SCSS
 - **Database:**
   - SQL Server
 
